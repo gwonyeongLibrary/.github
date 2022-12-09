@@ -12,3 +12,6 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 # 2. [Docker](https://github.com/gwonyeongLibrary/Docker)
 - 도커와 도커 컴포즈를 이용하는 간단한 예시 작성.
 - 도커의 이미지와 컨테이너의 유지보수 방법을 추가할 예정
+# 3.[Jest](https://github.com/gwonyeongLibrary/Jest)
+- Jest 유닛테스트 모킹 예시
+- 통합 테스트 개념, 좀더 구체적인 사례 추가할 예정
