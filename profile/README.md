@@ -17,5 +17,13 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 - Jest 유닛테스트 모킹 예시
 - 통합 테스트 개념, 좀더 구체적인 사례 추가할 예정
 
+# 4. [Type-Script](https://github.com/gwonyeongLibrary/nest-typescript)
+
+# 5. [NestJS](https://github.com/gwonyeongLibrary/nest-practice)
+
 # Docs
 # 1. [AWS](https://github.com/gwonyeongLibrary/AWS)
+
+# 2. [DMBS](https://github.com/gwonyeongLibrary/DBMS)
+
+# 3. [Node.js Theory](https://github.com/gwonyeongLibrary/NodeJSTheory)
