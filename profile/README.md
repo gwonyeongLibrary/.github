@@ -25,7 +25,7 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 
 # 4. [Type-Script](https://github.com/gwonyeongLibrary/nest-typescript)
 
-# 5. [NestJS](https://github.com/gwonyeongLibrary/nest-practice)
+# 5. [NestJS](https://github.com/gwonyeongLibrary/Nest-practice-on-nomardCoder)
 
 # Docs
 # 1. [AWS](https://github.com/gwonyeongLibrary/AWS)
