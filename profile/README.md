@@ -6,9 +6,14 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 
 공부할 때 도움이 된 소스
 
+## 공식문서
+- [REST API](https://learn.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
+
 ## 코드짜기
 - [REST API](https://meetup.nhncloud.com/posts/92)
 - [객체지향 비유](https://velog.io/@msung99/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%84-%EC%95%84%EB%8A%94%EC%B2%99%ED%95%98%EC%A7%80-%EB%A7%90%EC%9E%90-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%98%A4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%9E%88%EC%97%88%EB%8D%98-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%B4)
+
+
 
 ---
 # Example
