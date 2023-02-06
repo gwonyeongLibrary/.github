@@ -15,8 +15,9 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 - [Mysql tutorial](https://www.w3schools.com/sql/)
 - [ESlint](https://eslint.org/docs/rules/)
 
-
-
+## 기술블로그
+- [인프런 호돌맨님](https://hodolman.com/)
+- [JBEE님](https://jbee.io/)
 ---
 # Example
 
