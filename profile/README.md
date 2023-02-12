@@ -8,6 +8,7 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 
 ## 공식문서
 - [REST API](https://learn.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
+- [PM2]( https://github.com/Unitech/pm2)
 
 ### NEST
 - [nestjs-multer-extended](https://github.com/jeffminsungkim/nestjs-multer-extended)
