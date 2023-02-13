@@ -40,9 +40,16 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 # 5. [NestJS](https://github.com/gwonyeongLibrary/Nest-practice-on-nomardCoder)
 - 정말 기본적인 네스트
 
+# 6. [NestJs-Socket](https://github.com/gwonyeongLibrary/nest-socket)
+- socket emit, on등의 개념을 포함해 socket의 원리 공부
+
 # Docs
 # 1. [AWS](https://github.com/gwonyeongLibrary/AWS)
+- 클라우드 컴퓨팅의 개념 공부
+- 로드밸런서, vpc등 개념 공부
 
 # 2. [DMBS](https://github.com/gwonyeongLibrary/DBMS)
+- INNER JOIN, OUTER JOIN 등 SQL문법 공부
+- MySQL workbench 활용법(함수 사용 등) 공부
 
 # 3. [Node.js Theory](https://github.com/gwonyeongLibrary/NodeJSTheory)
