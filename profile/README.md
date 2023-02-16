@@ -19,6 +19,7 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 - [Mysql tutorial](https://www.w3schools.com/sql/)
 - [ESlint](https://eslint.org/docs/rules/)
 - [DB 이론](https://dataonair.or.kr/db-tech-reference/d-guide/da-guide/?pageid=1&mod=list&target=&keyword=%EC%A0%95%EA%B7%9C%ED%99%94)
+- [SQL](https://www.w3schools.com/sql/default.asp)
 
 ## 기술블로그
 - [인프런 호돌맨님](https://hodolman.com/)
