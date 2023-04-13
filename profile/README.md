@@ -54,3 +54,5 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 - MySQL workbench 활용법(함수 사용 등) 공부
 
 # 3. [Node.js Theory](https://github.com/gwonyeongLibrary/NodeJSTheory)
+
+# 4. [CS note](https://github.com/gwonyeongLibrary/CS_NOTE)
