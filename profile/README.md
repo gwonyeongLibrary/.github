@@ -6,6 +6,9 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 
 공부할 때 도움이 된 소스
 
+# 개인 벨로그
+https://velog.io/@kwanyung
+
 ## 공식문서
 - [REST API](https://learn.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
 - [PM2]( https://github.com/Unitech/pm2)
