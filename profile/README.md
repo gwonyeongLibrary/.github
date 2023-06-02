@@ -9,6 +9,9 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 # 개인 벨로그
 https://velog.io/@kwanyung
 
+# 디자인 툴
+- [디자인 툴 모음](https://yozm.wishket.com/magazine/detail/103/)
+
 ## AWS
 - [프리티어 비용 정리](https://pearlluck.tistory.com/284)
 
