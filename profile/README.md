@@ -33,7 +33,7 @@ https://velog.io/@kwanyung
 ## 기술블로그
 - [JBEE님](https://jbee.io/)
 - [향로님](https://jojoldu.tistory.com/)
----
+- [기술 블로그 모음](https://github.com/seonggwonyoon/techblog)
 # Example
 
 # 1. [Swagger](https://github.com/gwonyeongLibrary/Swagger) 
