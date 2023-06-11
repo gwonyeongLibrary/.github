@@ -6,8 +6,14 @@ Node의 기본만 알면 어렵지 않게 간단한 예시를 만들 예정입�
 
 공부할 때 도움이 된 소스
 
+
+
 # 개인 벨로그
 https://velog.io/@kwanyung
+
+# 개발바닥
+https://www.youtube.com/results?search_query=%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5
+
 
 # 디자인 툴
 - [디자인 툴 모음](https://yozm.wishket.com/magazine/detail/103/)
