@@ -72,6 +72,6 @@ https://www.youtube.com/results?search_query=%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A
 - INNER JOIN, OUTER JOIN 등 SQL문법 공부
 - MySQL workbench 활용법(함수 사용 등) 공부
 
-# 3. [Node.js Theory](https://github.com/gwonyeongLibrary/NodeJSTheory)
+# 3. [Node.js Theory](https://github.com/gwonyeongLibrary/NodeJSTheory) 자바스크립트 파워북
 
 # 4. [CS note](https://github.com/gwonyeongLibrary/CS_NOTE)
